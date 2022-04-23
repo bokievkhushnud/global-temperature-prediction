@@ -1,5 +1,4 @@
 # Global-temperature-prediction
-Final datascience project
  
 ### About the algorithms:
 This is an implementation of Machine Learning Algorithms to predict the average global temperature with respect to CO2 and other Greenhouse gases.
